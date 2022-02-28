@@ -1,3 +1,15 @@
+commit e3af4495b9a48c9a7697e3a9228334ce6b269a5b
+Author: yash2998chhabria <yash2998chhabria@gmail.com>
+Date:   Sun Feb 27 22:33:48 2022 -0800
+
+    Final commit
+
+commit 3b7774942d3101a1847fb645ed50debfcb554d35
+Author: yash2998chhabria <yash2998chhabria@gmail.com>
+Date:   Sun Feb 27 22:30:35 2022 -0800
+
+    Create git_log.txt
+
 commit 1b00904ad35ee65c1e3496c89f76979525b170ba
 Author: yash2998chhabria <yash2998chhabria@gmail.com>
 Date:   Sun Feb 27 22:29:21 2022 -0800
